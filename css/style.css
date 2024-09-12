@@ -3722,7 +3722,7 @@ body:has(.bringer-infinite-list) .bringer-backlight {
 .bringer-grid-cta-heading {
     font-family: var(--bringer-t-heading-ff);
     font-weight: var(--bringer-t-heading-fw);
-    color: var(--bringer-s-accented-text);
+    color: #007aff;
     font-size: var(--bringer-t-h1-fs);
     letter-spacing: var(--bringer-t-h1-ls);
     line-height: var(--bringer-t-h1-lh);
